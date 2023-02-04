@@ -1,1 +1,2 @@
-jettabot文黨
+jettabot網站黨
+不要問我為什麼公開呵呵
