@@ -90,13 +90,3 @@ p {
 .col-sm-6.col-lg-4 {
     margin: 20px;
 }
-
-.info_codes{
-  display: flex;
-  justify-content: center; 
-  align-items: center;
-}
-
-.info_codes img{
-  width: 60%;
-}
